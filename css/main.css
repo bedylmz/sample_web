@@ -1,0 +1,20 @@
+.paragraph
+{
+    margin: 17px auto;
+    padding: 1px 5px 8px 15px;
+    background-color: #717165;
+    font-family: monospace;
+    outline-color: chartreuse;
+    outline: medium;
+}
+
+.header
+{
+    font-size: 43px;
+    font-family:  fantasy;
+}
+
+.main
+{
+    background-color: rgb(95, 95, 95);
+}
